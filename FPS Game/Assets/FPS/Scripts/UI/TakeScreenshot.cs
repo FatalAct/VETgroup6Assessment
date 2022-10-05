@@ -28,7 +28,7 @@ namespace Unity.FPS.UI
 
         string GetPath() => k_ScreenshotPath + FileName + ".png";
 
-        const string k_ScreenshotPath = "Assets/";
+        const string k_ScreenshotPath = "Screenshots/";
 
         void Awake()
         {
