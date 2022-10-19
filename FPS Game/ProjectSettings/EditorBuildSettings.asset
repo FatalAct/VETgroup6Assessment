@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/FPS/Scenes/ErrorScreen.unity
     guid: e708ba1f97bce4be1acb298843c354ab
+  - enabled: 1
+    path: Assets/FPS/Scenes/Level3.unity
+    guid: 2e8f4f09f56b94f7d96f7ae2f68b12d5
   m_configObjects: {}
