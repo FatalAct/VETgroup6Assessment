@@ -1,18 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.FPS.Gameplay;
 using UnityEngine;
 
-public class CoinPickup : MonoBehaviour
+public class CoinPickup : Pickup
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public float CoinCount;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
